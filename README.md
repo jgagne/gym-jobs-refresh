@@ -28,7 +28,7 @@ Transcript:
    - Jobs search (source GYM)
    - Job posts (source AQ/VT)
 
-### Promo Value
+### Promote Value
 
 BTW
 
